@@ -20,6 +20,7 @@ I am in ❤️ with software development and next to my primary software languag
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-9f3536?style=flat-square&logo=mongodb&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-7a5539?style=flat-square&logo=mysql&logoColor=white"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-55753c?style=flat-square&logo=Node.js&logoColor=white"/></p>
-<!---
-<h2>📩 Get in contact</h2>
---->
+
+<h2>📉 Stats</h2>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mderuiter&show_icons=true&theme=radical)
